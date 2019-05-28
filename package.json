@@ -10,7 +10,7 @@
   "author": "Eduardo Boucas <mail@eduardoboucas.com> (https://eduardoboucas.com/)",
   "license": "ISC",
   "dependencies": {
-    "@slack/client": "^3.6.0",
+    "@slack/client": "^5.0.1",
     "body-parser": "^1.15.2",
     "convict": "^1.4.0",
     "cors": "^2.8.1",
