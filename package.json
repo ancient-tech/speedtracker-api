@@ -12,7 +12,7 @@
   "dependencies": {
     "@slack/client": "^3.6.0",
     "body-parser": "^1.15.2",
-    "convict": "^1.4.0",
+    "convict": "^6.0.0",
     "cors": "^2.8.1",
     "crypto": "0.0.3",
     "express": "^4.14.0",
